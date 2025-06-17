@@ -3,6 +3,11 @@
 
 This repository is the official PyTorch implementation of our paper: **"FSDA-DG：Single Domain Generalization Medical Image Segmentation with Few Source Domain Annotations"**.
 
+## 📢 News
+- **[2025.06.17] FSDA-DG has accepted by *Medical Image Analysis* (MedIA) ！🎉**
+- **[2024.11.10]** We open-sourced a simply FSDA-DG code！🎉**
+  
+
 # Main framework overview and results
 
 ![Main framework](fig3_revised.png#gh-light-mode-only)
@@ -14,9 +19,7 @@ This repository is the official PyTorch implementation of our paper: **"FSDA-DG�
 ![Results](fig1_white_background.png#gh-dark-mode-only)
 
 
-## 📢 News
-- **[2025.06.17] FSDA-DG has accepted by *Medical Image Analysis* (MedIA) ！🎉**
-- **[2024.11.10]** We open-sourced a simply FSDA-DG code！🎉**
+
 
 
 ## 🔧 1. Installation
