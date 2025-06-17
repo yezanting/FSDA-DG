@@ -1,9 +1,7 @@
-# FSDA-DG
-
-## FSDA-DG: Single Domain Generalization Medical Image Segmentation with Few Source Domain Annotations
+# FSDA-DG: Single Domain Generalization for Medical Image Segmentation with Few Source Domain Annotations
 
 
-
+This repository is the official PyTorch implementation of our paper: **"FSDA-DG：Single Domain Generalization Medical Image Segmentation with Few Source Domain Annotations"**.
 
 ## 1. Installation
 
