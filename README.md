@@ -9,9 +9,9 @@ This repository is the official PyTorch implementation of our paper: **"FSDA-DGï
 
 ![Results](fig21.png#gh-light-mode-only)
 
-![Main framework](fig1_white_background.png#gh-dark-mode-only)
+![Main framework](fig2_white_background.png#gh-dark-mode-only)
 
-![Results](fig2_white_background.png#gh-dark-mode-only)
+![Results](fig1_white_background.png#gh-dark-mode-only)
 
 
 ## ðŸ“¢ News
