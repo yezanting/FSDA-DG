@@ -9,6 +9,10 @@ This repository is the official PyTorch implementation of our paper: **"FSDA-DG�
 
 ![Results](fig21.png#gh-light-mode-only)
 
+![Main framework](fig1_white_background.png#gh-dark-mode-only)
+
+![Results](fig2_white_background.png#gh-dark-mode-only)
+
 
 ## 📢 News
 - **[2025.06.17] FSDA-DG has accepted by *Medical Image Analysis* (MedIA) ！🎉**
