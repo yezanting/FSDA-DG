@@ -5,9 +5,9 @@ This repository is the official PyTorch implementation of our paper: **"FSDA-DGï
 
 # Main framework overview and results
 
-![Main framework](fig3_revised.png#gh-dark-mode-only)
+![Main framework](fig3_revised.png#gh-light-mode-only)
 
-![Results](fig21.png#gh-dark-mode-only)
+![Results](fig21.png#gh-light-mode-only)
 
 
 ## ðŸ“¢ News
@@ -19,10 +19,9 @@ This repository is the official PyTorch implementation of our paper: **"FSDA-DGï
 
 First, clone this repository and navigate to the project directory:
 ```bash
-git clone https://github.com/your-username/FSDA-DG.git
+git clone https://github.com/yezanting/FSDA-DG.git
 cd FSDA-DG
 ```
-*(Remember to replace `your-username` with your actual GitHub username)*
 
 Next, install the required dependencies. We recommend using a virtual environment.
 ```bash
