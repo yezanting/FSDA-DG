@@ -3,6 +3,14 @@
 
 This repository is the official PyTorch implementation of our paper: **"FSDA-DG：Single Domain Generalization Medical Image Segmentation with Few Source Domain Annotations"**.
 
+<p align="center">
+  <img src="fig3_revised.png" width="800"/>
+</p> 
+
+<p align="center">
+  <img src="fig21.png" width="800"/>
+</p> 
+
 ## 1. Installation
 
 This code requires PyTorch 1.10 and python 3+. Please install dependencies by
