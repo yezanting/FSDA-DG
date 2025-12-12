@@ -75,11 +75,10 @@ We follow the data preparation pipeline from [CSDG]. Please download the dataset
 <details>
   <summary><strong>Cardiac Datasets (bSSFP & LGE)</strong></summary>
   
-  (Detailed instructions for the cardiac datasets will be provided soon.)
 
 </details>
 
-> **Note**: For convenience, we will provide a download link for the fully processed datasets and our pretrained models at a later date.
+> **Note**: For data preprocessing, please refer to [CSDG](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization)
 
 The final data directory structure should look like this:
 ```
@@ -137,7 +136,6 @@ All training configurations are defined in the `.yaml` files within the `configs
 ## 📊 4. Inference
 
 Download our pretrained models and unzip them into the `logs/` directory.
-> **Note**: The download link for pretrained models will be available soon.
 
 Run the following commands to evaluate the models on the test set.
 
